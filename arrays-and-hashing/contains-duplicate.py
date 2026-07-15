@@ -1,3 +1,5 @@
+# Time:   O(N)
+# Space:  O(N)
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
         s = set()
